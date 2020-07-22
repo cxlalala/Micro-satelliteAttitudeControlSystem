@@ -61,7 +61,7 @@ for i in range(0, state.shape[0]):
 print(c_train, c_pretrain, c_valtrain, c_prevaltrain)
 
 # history
-f = h5py.File(model_path+'history_class_1.hdf5','r')
+f = h5py.File(model_path+'history.hdf5','r')
 loss = f['/history/loss'][:]
 val_loss = f['/history/val_loss'][:]
 f.close()
