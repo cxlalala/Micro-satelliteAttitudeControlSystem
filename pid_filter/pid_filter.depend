@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1595344149 source:c:\users\cx\desktop\pid_filter\pid_filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+
+1595412651 source:f:\matlab2015a\bin\501\pid_filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"math.h"
+
+1595345941 source:f:\matlab2015a\bin\501\pid_filter\guassian_noise.c
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+
+1595352876 source:f:\matlab2015a\bin\501\pid_filter\read_noise.c
+	<stdio.h>
+	<stdlib.h>
+
