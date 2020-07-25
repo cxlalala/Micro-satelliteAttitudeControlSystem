@@ -5,7 +5,7 @@ import hdf5
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-N = 1000
+N = 10000000
 
 hdf5.path_hdf5s()
 progress_logger = log.logger('progress_made.log')
